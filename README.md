@@ -25,7 +25,8 @@ The app provides a clean and simple interface for managing a list of tasks, maki
 
 ## Pseudo Code Diagram:
 
-![w](https://github.com/user-attachments/assets/e7b9e457-d6bb-4e65-9fbb-0bad8528bf2b)
+![w drawio](https://github.com/user-attachments/assets/31371b35-8e75-4fbb-81e6-622330cc7df2)
+
 
 
 ## Keywords & their Definitions:
